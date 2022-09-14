@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/barload/static/css/main.aeca56d2.css",
-    "main.js": "/barload/static/js/main.3c82e623.js",
+    "main.js": "/barload/static/js/main.747baa99.js",
     "static/js/787.c4389db4.chunk.js": "/barload/static/js/787.c4389db4.chunk.js",
     "static/media/goldenRod-plate.svg": "/barload/static/media/goldenRod-plate.c92a9bacbcb10db0ba66850b9e322b53.svg",
     "static/media/green-plate.svg": "/barload/static/media/green-plate.8421078bf7491f6e424c636516388de7.svg",
@@ -10,11 +10,11 @@
     "static/media/white-plate.svg": "/barload/static/media/white-plate.ece52e5e3afd35e084391ca3e21b158b.svg",
     "index.html": "/barload/index.html",
     "main.aeca56d2.css.map": "/barload/static/css/main.aeca56d2.css.map",
-    "main.3c82e623.js.map": "/barload/static/js/main.3c82e623.js.map",
+    "main.747baa99.js.map": "/barload/static/js/main.747baa99.js.map",
     "787.c4389db4.chunk.js.map": "/barload/static/js/787.c4389db4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aeca56d2.css",
-    "static/js/main.3c82e623.js"
+    "static/js/main.747baa99.js"
   ]
 }
