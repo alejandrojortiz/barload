@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/barload/static/css/main.aeca56d2.css",
+    "main.js": "/barload/static/js/main.3c82e623.js",
+    "static/js/787.c4389db4.chunk.js": "/barload/static/js/787.c4389db4.chunk.js",
+    "static/media/goldenRod-plate.svg": "/barload/static/media/goldenRod-plate.c92a9bacbcb10db0ba66850b9e322b53.svg",
+    "static/media/green-plate.svg": "/barload/static/media/green-plate.8421078bf7491f6e424c636516388de7.svg",
+    "static/media/navy-plate.svg": "/barload/static/media/navy-plate.53dea051a5b90502858c7e60f6163245.svg",
+    "static/media/red-plate.svg": "/barload/static/media/red-plate.c0b8b92d26471798376d1884d106635d.svg",
+    "static/media/white-plate.svg": "/barload/static/media/white-plate.ece52e5e3afd35e084391ca3e21b158b.svg",
+    "index.html": "/barload/index.html",
+    "main.aeca56d2.css.map": "/barload/static/css/main.aeca56d2.css.map",
+    "main.3c82e623.js.map": "/barload/static/js/main.3c82e623.js.map",
+    "787.c4389db4.chunk.js.map": "/barload/static/js/787.c4389db4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeca56d2.css",
+    "static/js/main.3c82e623.js"
+  ]
+}
